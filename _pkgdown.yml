@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 url: https://insightsengineering.github.io/coursera.cicd.lab
+=======
+url: https://dimitriskontosBAY.github.io/coursera.cicd.lab
+>>>>>>> a9aa25f18002b1eb320b897fd2fe02fa8792d002
 
 template:
   bootstrap: 5
@@ -17,4 +21,8 @@ template:
 navbar:
   right:
     - icon: fa-github
+<<<<<<< HEAD
       href: https://github.com/insightsengineering/coursera.cicd.lab
+=======
+      href: https://github.com/dimitriskontosBAY/coursera.cicd.lab
+>>>>>>> a9aa25f18002b1eb320b897fd2fe02fa8792d002

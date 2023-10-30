@@ -1,5 +1,6 @@
 # coursera.cicd.lab
 
+<<<<<<< HEAD
 ![GitHub forks](https://img.shields.io/github/forks/insightsengineering/coursera.cicd.lab?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/insightsengineering/coursera.cicd.lab?style=social)
 
@@ -186,3 +187,6 @@ Don't commit common R artifacts......................(no files to check)Skipped
 ### Forkers
 
 [![Forkers repo roster for @insightsengineering/coursera.cicd.lab](https://reporoster.com/forks/insightsengineering/coursera.cicd.lab)](https://github.com/insightsengineering/coursera.cicd.lab/network/members)
+=======
+Short description of the package
+>>>>>>> a9aa25f18002b1eb320b897fd2fe02fa8792d002

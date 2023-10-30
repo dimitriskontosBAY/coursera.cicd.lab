@@ -1,7 +1,11 @@
 ---
 # Information about this file: https://github.com/openpharma/staged.dependencies
 current_repo:
+<<<<<<< HEAD
   repo: insightsengineering/coursera.cicd.lab
+=======
+  repo: dimitriskontosBAY/coursera.cicd.lab
+>>>>>>> a9aa25f18002b1eb320b897fd2fe02fa8792d002
   host: https://github.com
 upstream_repos:
 downstream_repos:

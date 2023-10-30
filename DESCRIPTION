@@ -1,14 +1,19 @@
 Type: Package
 Package: coursera.cicd.lab
 Title: R Package Template
-Version: 0.1.0.9130
+Version: 0.1.0
 Date: 2023-07-05
 Authors@R:
-    person("insightsengineering", , , "insightsengineering@example.com", role = c("aut", "cre"))
+    person("dimitriskontosBAY", , , "dimitriskontosBAY@example.com", role = c("aut", "cre"))
 Description: R package template with GitHub Actions workflows included.
 License: Apache License 2.0 | file LICENSE
+<<<<<<< HEAD
 URL: https://github.com/insightsengineering/coursera.cicd.lab/
 BugReports: https://github.com/insightsengineering/coursera.cicd.lab/issues
+=======
+URL: https://github.com/dimitriskontosBAY/coursera.cicd.lab/
+BugReports: https://github.com/dimitriskontosBAY/coursera.cicd.lab/issues
+>>>>>>> a9aa25f18002b1eb320b897fd2fe02fa8792d002
 Depends:
     R (>= 3.6)
 Imports:
